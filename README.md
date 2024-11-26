@@ -1,4 +1,8 @@
 
+jedis的简单使用(Jedis即用Java操作Redis)
+
+[使用SpringDataRedis操作redis](https://github.com/tangfire/mySpring-data-redis)
+
 # 参考文章
 
 [Redis超详细入门教程（基础篇）](https://blog.csdn.net/HJW_233/article/details/131902164)
